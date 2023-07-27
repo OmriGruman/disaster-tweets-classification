@@ -1,1 +1,1 @@
-# distaster-tweets-classification
+# Disaster Tweets Classification
